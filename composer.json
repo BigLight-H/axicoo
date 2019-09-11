@@ -1,0 +1,20 @@
+{
+    "name": "axicoo/axicoo",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "黄光日",
+            "email": "463817374@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+                "Axicoo\\Starfish\\": "src/Axicoo/Starfish"
+        }
+    }
+}
